@@ -18,3 +18,4 @@ It contains 25000 [Histopathological](https://en.wikipedia.org/wiki/Histopatholo
 - 🪗DenseNet
 - :accessibility:EfficientNet
 - :electron:VGG16
+- 🅰️ AlexNet
