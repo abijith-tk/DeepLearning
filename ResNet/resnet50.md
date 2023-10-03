@@ -34,3 +34,8 @@ the chain rule of differentiation makes us multiply the gradients. Often, these 
 
 ![resnet50](https://github.com/abijith-tk/DeepLearning/assets/113427408/612b8ecd-2c27-4afc-96ab-0b56715297aa)
 
+## Resnet types Layers
+
+![image](https://github.com/abijith-tk/DeepLearning/assets/113427408/fc2e278b-678c-406c-9868-43bcfc593626)
+
+
