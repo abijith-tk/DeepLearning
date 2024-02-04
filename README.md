@@ -11,11 +11,18 @@ It contains 25000 [Histopathological](https://en.wikipedia.org/wiki/Histopatholo
 
 
 ### The models we are using 
-- 📌ResNet
-- 🐬Xception
-- ➿InceptionV3
-- 📱MobileNet
-- 🪗DenseNet
-- :accessibility:EfficientNet
-- :electron:VGG16
-- 🅰️ AlexNet
+📌[ResNet](https://github.com/abijith-tk/DeepLearning/tree/master/ResNet)
+
+🐬[Xception](https://github.com/abijith-tk/DeepLearning/tree/master/Xception)
+
+➿[InceptionResnetV2](https://github.com/abijith-tk/DeepLearning/tree/master/InceptionResnetV2)
+
+📱[MobileNet](https://github.com/abijith-tk/DeepLearning/tree/master/MobileNet)
+
+🪗[DenseNet](https://github.com/abijith-tk/DeepLearning/tree/master/Densenet)
+
+:accessibility:[EfficientNet](https://github.com/abijith-tk/DeepLearning/tree/master/efficientnet)
+
+:electron:[VGG16](https://github.com/abijith-tk/DeepLearning/tree/master/VGG16)
+
+🅰️[AlexNet](https://github.com/abijith-tk/DeepLearning/tree/master/Alexnet)
